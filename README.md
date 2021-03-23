@@ -30,3 +30,9 @@ rowNumber = 12 it should return [1, 12, 66, 220, 495, 792, 924, 792, 495, 220, 6
 
 #################################
 
+Anagram
+Yes, it is an anagram! : eat & tea  - The function isAnagram() called with these Strings should return true .
+
+No, it is not! : are & ears - The function isAnagram() called with these Strings should return false .
+
+###################################
